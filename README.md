@@ -11,12 +11,10 @@ Soon to be open-sourced...
 [Example](https://react-0xpass-base-git-feat-demo-0xpass.vercel.app/)
 
 
-### Authentican
+### Authentication
 Authenticate users in just 1 click with SIWE
 
 [Documentation](https://dashboard.0xpass.io/docs/authentication/introduction)
-
-[Example](https://react-0xpass-base-git-feat-demo-0xpass.vercel.app/)
 
 
 
